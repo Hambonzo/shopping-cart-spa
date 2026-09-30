@@ -1,0 +1,15 @@
+.container {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.title {
+    margin-left: 1em;
+    justify-self: start;
+   
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
